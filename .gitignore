@@ -1,0 +1,22 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# cloned model repo (set up separately per README)
+Janus/
+
+# runtime-generated files from ingestion / retrieval
+*.pdf
+source_hit_*.jpeg
+tempfile*.jpeg
+image.png
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

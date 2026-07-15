@@ -1,0 +1,13 @@
+streamlit
+streamlit-pdf-viewer
+colivara-py
+fastembed
+flash-attn
+transformers
+torch
+fpdf2
+firecrawl-py
+python-dotenv
+pillow
+requests
+tqdm
